@@ -1,0 +1,38 @@
+{
+    "What is adobo?": {
+      "answer": "Adobo is a popular Filipino dish made with meat (usually chicken or pork) marinated in soy sauce, vinegar, garlic, and spices.",
+      "keywords": [
+        "adobo"
+      ]
+    },
+    "can you give me the recipe for sinigang?": {
+      "answer": "Sinigang is a sour tamarind-based soup with various ingredients like pork, shrimp, or beef, and vegetables like water spinach, radish, and eggplant.",
+      "keywords": [
+        "sinigang"
+      ]
+    },
+    "what is the main ingredient in turon?": {
+      "answer": "The main ingredient in turon is plantain bananas, often with brown sugar, wrapped in a spring roll wrapper and fried until crispy.",
+      "keywords": [
+        "turon"
+      ]
+    },
+    "tell me about halo-halo.": {
+      "answer": "Halo-halo is a popular Filipino dessert that includes a mix of shaved ice, sweetened fruits, jellies, beans, and topped with evaporated milk and leche flan.",
+      "keywords": [
+        "halo-halo"
+      ]
+    },
+    "what is bicol express made of?": {
+      "answer": "Bicol Express is a spicy Filipino dish made with pork, coconut milk, and a mix of green and red chilies. It's known for its rich and spicy flavor.",
+      "keywords": [
+        "bicol express"
+      ]
+    },
+    "can you give me the recipe for pork sisig?": {
+      "answer": "Pork sisig is a sizzling dish made with chopped pig's face and ears, seasoned with calamansi, soy sauce, and chili peppers.",
+      "keywords": [
+        "pork sisig"
+      ]
+    }
+  }
